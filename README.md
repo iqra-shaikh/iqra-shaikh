@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Iqra Shaikh
 - 👀 I’m interested in Application Development and UI Designing
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Kotlin
 - 📫 How to reach me: Instagram- @iqraaaa.shaikh
 
 <!---
